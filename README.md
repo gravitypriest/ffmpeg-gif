@@ -1,7 +1,7 @@
-##ffmpeg-gif
+## ffmpeg-gif
 Create GIFs from video using ffmpeg.
 
-###Requirements:
+### Requirements:
 - Python 3
 - ffmpeg
 - ffmpeg should be accessible in your `$PATH`
